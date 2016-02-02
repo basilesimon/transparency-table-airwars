@@ -1,0 +1,10 @@
+body {
+  background-color: #EEEEEE;
+}
+.table {
+  width: 75%;
+  margin: 4em;
+}
+.table td:first-child {
+  font-weight: bold;
+}
