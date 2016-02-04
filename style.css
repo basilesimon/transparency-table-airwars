@@ -3,8 +3,11 @@ body {
 }
 .table {
   width: 75%;
-  margin: 4em;
+  margin-left: 4em;
 }
 .table td:first-child {
   font-weight: bold;
+}
+#logo {
+  margin-top: -3em;
 }
