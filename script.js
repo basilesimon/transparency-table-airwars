@@ -1,6 +1,8 @@
 backgrounds = [
   ["No", "#FF5858"],
   ["Occasional", "#FFE974"],
+  ["Poor", "#FFE974"],
+  ["Sometimes", "#FFE974"],
   ["Indirectly location*", "#FFE974"],
   ["Some indirectly", "#FFE974"],
   ["Most locations", "#FFE974"],
